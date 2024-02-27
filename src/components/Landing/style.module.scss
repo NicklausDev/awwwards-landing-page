@@ -1,11 +1,12 @@
 .landing{
+    background-color: #999d9e;
     position: relative;
     display: flex;
     height: 100vh;
     overflow: hidden;
 
     img{
-      object-fit: cover;
+      object-fit: contain;
     }
     
     .sliderContainer{
